@@ -13,5 +13,7 @@ This work is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-### [WEEK 01](WEEK-01/00-WEEK-01.md)
-### [WEEK 02](WEEK-02/00-WEEK-02.md)
+
+||||
+|- |- |-| 
+| [WEEK 01](WEEK-01/00-WEEK-01.md) | [WEEK 02](WEEK-02/00-WEEK-02.md) | [WEEK 03](WEEK-02/00-WEEK-03.md) |
